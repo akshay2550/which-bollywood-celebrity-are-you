@@ -1,7 +1,0 @@
-streamlit
-keras_vggface
-scikit-learn
-opencv-python
-mtcnn
-Pillow
-tensorflow
