@@ -1,0 +1,4 @@
+streamlit
+keras
+cv2
+mtcnn
